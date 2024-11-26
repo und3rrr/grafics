@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\bin\Debug\ImageTransformation.exe.config
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\bin\Debug\ImageTransformation.exe
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\bin\Debug\ImageTransformation.pdb
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.Form1.resources
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.Properties.Resources.resources
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.exe
+C:\Users\User\source\repos\ImageTransformation\ImageTransformation\obj\Debug\ImageTransformation.pdb
