@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.Form1.resources
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.Properties.Resources.resources
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\bin\Debug\PixelTransformationWinForms.exe.config
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\bin\Debug\PixelTransformationWinForms.exe
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\bin\Debug\PixelTransformationWinForms.pdb
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.exe
+C:\Users\User\source\repos\PixelTransformationWinForms\PixelTransformationWinForms\obj\Debug\PixelTransformationWinForms.pdb
