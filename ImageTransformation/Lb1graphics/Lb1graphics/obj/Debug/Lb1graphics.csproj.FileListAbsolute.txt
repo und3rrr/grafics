@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\bin\Debug\Lb1graphics.exe.config
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\bin\Debug\Lb1graphics.exe
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\bin\Debug\Lb1graphics.pdb
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.Form1.resources
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.Properties.Resources.resources
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.exe
+C:\Users\User\source\repos\Lb1graphics\Lb1graphics\obj\Debug\Lb1graphics.pdb
