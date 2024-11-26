@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Komp_graph\Komp_graph\bin\Debug\Komp_graph.exe.config
+C:\Users\User\source\repos\Komp_graph\Komp_graph\bin\Debug\Komp_graph.exe
+C:\Users\User\source\repos\Komp_graph\Komp_graph\bin\Debug\Komp_graph.pdb
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.Form1.resources
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.Properties.Resources.resources
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.exe
+C:\Users\User\source\repos\Komp_graph\Komp_graph\obj\Debug\Komp_graph.pdb
