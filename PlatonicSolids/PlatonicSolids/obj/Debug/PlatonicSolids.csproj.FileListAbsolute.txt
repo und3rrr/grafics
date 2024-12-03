@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.Properties.Resources.resources
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\bin\Debug\PlatonicSolids.exe.config
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\bin\Debug\PlatonicSolids.exe
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\bin\Debug\PlatonicSolids.pdb
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.exe
+C:\Users\User\source\repos\PlatonicSolids\PlatonicSolids\obj\Debug\PlatonicSolids.pdb
