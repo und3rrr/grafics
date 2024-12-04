@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.Properties.Resources.resources
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\bin\Debug\PolygonClipper.exe.config
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\bin\Debug\PolygonClipper.exe
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\bin\Debug\PolygonClipper.pdb
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.exe
+C:\Users\User\source\repos\PolygonClipper\PolygonClipper\obj\Debug\PolygonClipper.pdb
