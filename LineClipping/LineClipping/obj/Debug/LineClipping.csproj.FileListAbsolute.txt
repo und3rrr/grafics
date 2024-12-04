@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.Properties.Resources.resources
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LineClipping\LineClipping\bin\Debug\LineClipping.exe.config
+C:\Users\User\source\repos\LineClipping\LineClipping\bin\Debug\LineClipping.exe
+C:\Users\User\source\repos\LineClipping\LineClipping\bin\Debug\LineClipping.pdb
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.exe
+C:\Users\User\source\repos\LineClipping\LineClipping\obj\Debug\LineClipping.pdb
