@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.Properties.Resources.resources
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\bin\Debug\CurveSurfaceBuilder.exe.config
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\bin\Debug\CurveSurfaceBuilder.exe
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\bin\Debug\CurveSurfaceBuilder.pdb
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.exe
+C:\Users\User\source\repos\CurveSurfaceBuilder\CurveSurfaceBuilder\obj\Debug\CurveSurfaceBuilder.pdb
