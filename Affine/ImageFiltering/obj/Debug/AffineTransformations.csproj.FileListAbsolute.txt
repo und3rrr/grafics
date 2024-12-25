@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\bin\Debug\ImageFiltering.exe.config
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\bin\Debug\ImageFiltering.exe
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\bin\Debug\ImageFiltering.pdb
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\AffineTransformations.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\AffineTransformations.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\ImageFiltering.Properties.Resources.resources
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\AffineTransformations.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\AffineTransformations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\ImageFiltering.exe
+C:\Users\User\source\repos\ImageFiltering\ImageFiltering\obj\Debug\ImageFiltering.pdb
