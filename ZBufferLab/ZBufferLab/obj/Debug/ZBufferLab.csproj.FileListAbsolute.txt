@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.Properties.Resources.resources
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\bin\Debug\ZBufferLab.exe.config
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\bin\Debug\ZBufferLab.exe
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\bin\Debug\ZBufferLab.pdb
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.exe
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.pdb
+C:\Users\User\source\repos\ZBufferLab\ZBufferLab\obj\Debug\ZBufferLab.MainForm.resources
